@@ -8,6 +8,10 @@
     <br><br>For more details, see the <a href="https://github.com/CyberonEBU/cyberon-one-stage-kwd-demo-psoc6-cm4/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://www.cyberon.com.tw/about.php?page=intro&lang=en">Cyberon Corporation</a> is a leading embedded speech solution provider.<br> > <a href="https://www.cyberon.com.tw/product.php?page=p_1&lang=en">Get Started</a><br> > <a href="https://www.cyberon.com.tw/contact.php?lang=en">Talk to Sales</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.2 release</num>
+        <commit>release-v1.2</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
         <commit>release-v1.1</commit>
@@ -23,6 +27,10 @@
     <br><br>For more details, see the <a href="https://github.com/CyberonEBU/cyberon-two-stage-kwd-demo-psoc6-cm4/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://www.cyberon.com.tw/about.php?page=intro&lang=en">Cyberon Corporation</a> is a leading embedded speech solution provider.<br> > <a href="https://www.cyberon.com.tw/product.php?page=p_1&lang=en">Get Started</a><br> > <a href="https://www.cyberon.com.tw/contact.php?lang=en">Talk to Sales</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.2 release</num>
+        <commit>release-v1.2</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
         <commit>release-v1.1</commit>
@@ -38,6 +46,10 @@
     <br><br>For more details, see the <a href="https://github.com/CyberonEBU/cyberon-one-stage-kwd-demo-psoc6-cm0p/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://www.cyberon.com.tw/about.php?page=intro&lang=en">Cyberon Corporation</a> is a leading embedded speech solution provider.<br> > <a href="https://www.cyberon.com.tw/product.php?page=p_1&lang=en">Get Started</a><br> > <a href="https://www.cyberon.com.tw/contact.php?lang=en">Talk to Sales</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.2 release</num>
+        <commit>release-v1.2</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
         <commit>release-v1.1</commit>
@@ -53,6 +65,10 @@
     <br><br>For more details, see the <a href="https://github.com/CyberonEBU/cyberon-two-stage-kwd-demo-psoc6-cm0p/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://www.cyberon.com.tw/about.php?page=intro&lang=en">Cyberon Corporation</a> is a leading embedded speech solution provider.<br> > <a href="https://www.cyberon.com.tw/product.php?page=p_1&lang=en">Get Started</a><br> > <a href="https://www.cyberon.com.tw/contact.php?lang=en">Talk to Sales</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>1.2 release</num>
+        <commit>release-v1.2</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
         <commit>release-v1.1</commit>
