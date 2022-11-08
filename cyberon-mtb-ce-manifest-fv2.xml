@@ -11,8 +11,8 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
-        <num>1.2 release</num>
-        <commit>release-v1.2</commit>
+        <num>1.3 release</num>
+        <commit>release-v1.3</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
@@ -32,8 +32,8 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
-        <num>1.2 release</num>
-        <commit>release-v1.2</commit>
+        <num>1.3 release</num>
+        <commit>release-v1.3</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
@@ -53,8 +53,8 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
-        <num>1.2 release</num>
-        <commit>release-v1.2</commit>
+        <num>1.3 release</num>
+        <commit>release-v1.3</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
@@ -74,8 +74,8 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
-        <num>1.2 release</num>
-        <commit>release-v1.2</commit>
+        <num>1.3 release</num>
+        <commit>release-v1.3</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen3">
         <num>1.1 release</num>
