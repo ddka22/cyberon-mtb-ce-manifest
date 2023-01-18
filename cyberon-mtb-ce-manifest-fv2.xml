@@ -1,7 +1,7 @@
 <apps version="2.0">
   <app keywords="psoc6,cyberon,voice trigger" req_capabilities_v2="[cy8ckit_062s2_43012]">
     <name>Cyberon Voice Trigger Demo on CM4</name>
-    <category>Voice</category>
+    <category>Middleware</category>
     <id>cyberon-one-stage-kwd-demo-psoc6-cm4</id>
     <uri>https://github.com/CyberonEBU/cyberon-one-stage-kwd-demo-psoc6-cm4</uri>
     <description>
@@ -22,7 +22,7 @@
   </app>
   <app keywords="psoc6,cyberon,voice trigger,command" req_capabilities_v2="[cy8ckit_062s2_43012]">
     <name>Cyberon Voice Trigger And Command Demo on CM4</name>
-    <category>Voice</category>
+    <category>Middleware</category>
     <id>cyberon-two-stage-kwd-demo-psoc6-cm4</id>
     <uri>https://github.com/CyberonEBU/cyberon-two-stage-kwd-demo-psoc6-cm4</uri>
     <description>
@@ -43,7 +43,7 @@
   </app>
   <app keywords="psoc6,cyberon,voice trigger" req_capabilities_v2="[cy8ckit_062s2_43012]">
     <name>Cyberon Voice Trigger Demo on CM0</name>
-    <category>Voice</category>
+    <category>Middleware</category>
     <id>cyberon-one-stage-kwd-demo-psoc6-cm0p</id>
     <uri>https://github.com/CyberonEBU/cyberon-one-stage-kwd-demo-psoc6-cm0p</uri>
     <description>
@@ -64,7 +64,7 @@
   </app>
   <app keywords="psoc6,cyberon,voice trigger,command" req_capabilities_v2="[cy8ckit_062s2_43012]">
     <name>Cyberon Voice Trigger And Command Demo on CM0</name>
-    <category>Voice</category>
+    <category>Middleware</category>
     <id>cyberon-two-stage-kwd-demo-psoc6-cm0p</id>
     <uri>https://github.com/CyberonEBU/cyberon-two-stage-kwd-demo-psoc6-cm0p</uri>
     <description>
